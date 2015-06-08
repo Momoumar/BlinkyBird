@@ -1,2 +1,3 @@
 # BlinkyBird
-A Flappy Bird Clone using OpenBCI to controll the bird movement.
+A project made during AngelHack Montreal 2015 just for fun.
+Topic: A Flappy Bird Clone using OpenBCI (open-source brain-computer interface) to control the bird movement.
